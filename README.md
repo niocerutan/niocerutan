@@ -17,9 +17,9 @@ listen=1
 
 daemon=1
 
-rpcuser=ether
+rpcuser=nature
 
-rpcpassword=ether
+rpcpassword=nature
 
 rpcport=10550
 
